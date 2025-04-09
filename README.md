@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=208D2D&width=435&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%81;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=26618D&width=435&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%81;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
 
  <div>
    <a href="https://github.com/mauricioandrade">
