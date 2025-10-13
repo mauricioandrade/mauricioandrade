@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=26618D&width=435&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%81;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
 
+[![An image of @mauricioandrade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mauricioandrade)](https://holopin.io/@mauricioandrade)
+
  <div>
    <a href="https://github.com/mauricioandrade">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricioandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
