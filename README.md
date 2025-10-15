@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Backend apaixonado por criar soluções robustas e escaláveis | Especialista em Java e Spring Framework
+Desenvolvedor Backend apaixonado por criar soluções robustas e escaláveis | Especialista em Java e Springboot Framework
 
 ---
 
