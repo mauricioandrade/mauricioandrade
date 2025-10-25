@@ -42,8 +42,6 @@ Desenvolvedor Backend apaixonado por criar soluções robustas e escaláveis | E
 
 ---
 
----
-
 ### ⚙️ Ferramentas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
