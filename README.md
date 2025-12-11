@@ -8,22 +8,16 @@
   
   ## 👨‍💻 Sobre mim
   
-  Sou um **Desenvolvedor Backend** apaixonado por arquitetura de software e boas práticas. Meu foco é criar aplicações robustas utilizando o ecossistema Java.
+  Sou um **Desenvolvedor Backend** apaixonado por arquitetura de software e boas práticas. Meu foco é criar aplicações robustas utilizando o ecossistema Java, mas possuo visão Full Cycle com conhecimentos em Frontend e uso de IA para produtividade.
   
   ⚡ **Stack Principal:** Java, Spring Boot, Microservices
+  🤖 **Produtividade:** Utilizo IA para otimização de workflow e código
   🌱 **Estudando atualmente:** Cloud Computing (AWS) & Arquitetura Hexagonal
   💬 **Pergunte-me sobre:** RESTful APIs, SOLID e Modelagem de Dados
 
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://github.com/mauricioandrade">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauricioandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioandrade&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
 
 <div align="center">
   <br>
@@ -61,12 +55,26 @@
 
   <br>
 
-  <h3 align="center">⚙️ DevOps & Ferramentas</h3>
+  <h3 align="center">🎨 Frontend (Noções Básicas)</h3>
+  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </div>
+
+  <br>
+
+  <h3 align="center">⚙️ Ferramentas, IDEs & IA</h3>
   <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </div>
+  
+  <div style="display: flex; justify-content: center; gap: 8px; margin-top: 8px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI_Assisted-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   </div>
 
 </div>
