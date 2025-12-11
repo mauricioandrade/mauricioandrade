@@ -21,8 +21,11 @@
 
 <div align="center">
   <br>
+  <h3>🏆 Conquistas Open Source</h3>
+  <p>Contribuições realizadas durante o <b>Hacktoberfest 2025</b></p>
+  
   <a href="https://holopin.io/@mauricioandrade">
-    <img src="https://holopin.me/mauricioandrade" alt="An image of @mauricioandrade's Holopin badges" height="100" />
+    <img src="https://holopin.me/mauricioandrade" alt="An image of @mauricioandrade's Holopin badges" />
   </a>
 </div>
 
