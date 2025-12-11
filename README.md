@@ -40,21 +40,53 @@
   
   <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" alt="Gojo GIF" width="100%" style="max-width: 600px; border-radius: 10px; margin-bottom: 20px;" />
 
-  ### 🧠 Backend
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <h3 align="center">🧠 Backend & Frameworks</h3>
+  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
+  </div>
+  
+  <div style="display: flex; justify-content: center; gap: 8px; margin-top: 8px;">
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   </div>
 
-  ### ⚙️ Ferramentas & DevOps
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <br>
+
+  <h3 align="center">🗄️ Banco de Dados</h3>
+  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </div>
+
+  <br>
+
+  <h3 align="center">⚙️ DevOps & Ferramentas</h3>
+  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   </div>
+
+</div>
+
+---
+
+<div align="center">
+
+  ## 📚 Base de Conhecimento
+  
+  Criei um espaço dedicado para documentar meus estudos e compartilhar conhecimento.
+  <br>Atualmente focado em **Java**, mas expandindo para programação geral, arquitetura e boas práticas.
+  
+  <br>
+  
+  <a href="https://honored-cart-e67.notion.site/Java-1c5d88444db380b58e24c36b0d91bc24" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Meu_Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Link para o Notion" />
+  </a>
 
 </div>
 
