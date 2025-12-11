@@ -28,7 +28,7 @@
 <div align="center">
   <br>
   <a href="https://holopin.io/@mauricioandrade">
-    <img src="https://holopin.me/mauricioandrade" alt="An image of @mauricioandrade's Holopin badges" height="60" />
+    <img src="https://holopin.me/mauricioandrade" alt="An image of @mauricioandrade's Holopin badges" height="100" />
   </a>
 </div>
 
@@ -38,8 +38,6 @@
 
 <div align="center">
   
-  <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" alt="Gojo GIF" width="100%" style="max-width: 600px; border-radius: 10px; margin-bottom: 20px;" />
-
   <h3 align="center">🧠 Backend & Frameworks</h3>
   <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
