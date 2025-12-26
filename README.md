@@ -8,12 +8,9 @@
   
   ## 👨‍💻 Sobre mim
   
-  Sou um **Desenvolvedor Backend** apaixonado por arquitetura de software e boas práticas. Meu foco é criar aplicações robustas utilizando o ecossistema Java, mas possuo visão Full Cycle com conhecimentos em Frontend e uso de IA para produtividade.
-  
-  ⚡ **Stack Principal:** Java, Spring Boot, Microservices
-  🤖 **Produtividade:** Utilizo IA para otimização de workflow e código
-  🌱 **Estudando atualmente:** Cloud Computing (AWS) & Arquitetura Hexagonal
-  💬 **Pergunte-me sobre:** RESTful APIs, SOLID e Modelagem de Dados
+  Sou um **Desenvolvedor Backend** apaixonado por arquitetura de software e boas práticas. Meu foco é criar aplicações robustas utilizando o ecossistema Java.
+  ⚡ **Stack Principal:** Java, Spring Boot.
+  🤖 **Produtividade:** Utilizo IA para otimização de workflow.
 
 </div>
 
