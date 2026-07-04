@@ -5,15 +5,20 @@
 </div>
 
 <div align="center">
-  
+
   ## 👨‍💻 Sobre mim
-  
-🧠 Desenvolvedor Backend com foco em Java e Spring Boot, apaixonado por arquitetura de software e boas práticas
-🚀 Em transição para Fullstack: HTML, CSS, JavaScript e atualmente aprendendo React
-🗄️ Bancos de dados com foco em relacionais (PostgreSQL e MySQL), mas também utilizo NoSQL com MongoDB
-🐧 Usuário de Linux (Ubuntu) no dia a dia
-🌱 Estudando Quarkus para expandir o ecossistema Java
-🤝 Entusiasta de open source — participei do Hacktoberfest 2025 e já estou de olho no 2026
+
+  🧠 Desenvolvedor Backend com foco em Java e Spring Boot, apaixonado por arquitetura de software e boas práticas
+
+  🚀 Em transição para Fullstack: HTML, CSS, JavaScript e atualmente aprendendo React
+
+  🗄️ Bancos de dados com foco em relacionais (PostgreSQL e MySQL), mas também utilizo NoSQL com MongoDB
+
+  🐧 Usuário de Linux (Ubuntu) no dia a dia
+
+  🌱 Estudando Quarkus para expandir o ecossistema Java
+
+  🤝 Entusiasta de open source — participei do Hacktoberfest 2025 e já estou de olho no 2026
 
 </div>
 
@@ -66,7 +71,6 @@
   <p>
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI_Assisted-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   </p>
 </div>
 
