@@ -8,9 +8,12 @@
   
   ## 👨‍💻 Sobre mim
   
-  Sou um **Desenvolvedor Backend** apaixonado por arquitetura de software e boas práticas. Meu foco é criar aplicações robustas utilizando o ecossistema Java.
-  ⚡ **Stack Principal:** Java, Spring Boot.
-  🤖 **Produtividade:** Utilizo IA para otimização de workflow.
+🧠 Desenvolvedor Backend com foco em Java e Spring Boot, apaixonado por arquitetura de software e boas práticas
+🚀 Em transição para Fullstack: HTML, CSS, JavaScript e atualmente aprendendo React
+🗄️ Bancos de dados com foco em relacionais (PostgreSQL e MySQL), mas também utilizo NoSQL com MongoDB
+🐧 Usuário de Linux (Ubuntu) no dia a dia
+🌱 Estudando Quarkus para expandir o ecossistema Java
+🤝 Entusiasta de open source — participei do Hacktoberfest 2025 e já estou de olho no 2026
 
 </div>
 
@@ -31,69 +34,40 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  
   <h3 align="center">🧠 Backend & Frameworks</h3>
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+  <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
     <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
-  </div>
-  
-  <div style="display: flex; justify-content: center; gap: 8px; margin-top: 8px;">
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  </div>
-
-  <br>
-
-  <h3 align="center">🗄️ Banco de Dados</h3>
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </div>
-
-  <br>
-
-  <h3 align="center">🎨 Frontend (Noções Básicas)</h3>
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+  </p>
+  <h3 align="center">🎨 Frontend</h3>
+  <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </div>
-
-  <br>
-
-  <h3 align="center">⚙️ Ferramentas, IDEs & IA</h3>
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </p>
+  <h3 align="center">🗄️ Banco de Dados</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </p>
+  <h3 align="center">⚙️ DevOps, Ferramentas & Sistema</h3>
+  <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </div>
-  
-  <div style="display: flex; justify-content: center; gap: 8px; margin-top: 8px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/AI_Assisted-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  </div>
-
-</div>
-
----
-
-<div align="center">
-
-  ## 📚 Base de Conhecimento
-  
-  Criei um espaço dedicado para documentar meus estudos e compartilhar conhecimento.
-  <br>Atualmente focado em **Java**, mas expandindo para programação geral, arquitetura e boas práticas.
-  
-  <br>
-  
-  <a href="https://honored-cart-e67.notion.site/Java-1c5d88444db380b58e24c36b0d91bc24" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar_Meu_Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Link para o Notion" />
-  </a>
-
+  </p>
 </div>
 
 ---
