@@ -6,6 +6,8 @@
 
 <div align="center">
 
+<img width="540" height="304" alt="221258" src="https://github.com/user-attachments/assets/ebda6ec7-f698-4297-b51c-1c02b32e98c5" />
+
   ## 👨‍💻 Sobre mim
 
   🧠 Desenvolvedor Backend com foco em Java e Spring Boot, apaixonado por arquitetura de software e boas práticas
@@ -14,7 +16,7 @@
 
   🗄️ Bancos de dados com foco em relacionais (PostgreSQL e MySQL), mas também utilizo NoSQL com MongoDB
 
-  🐧 Usuário de Linux (Ubuntu) no dia a dia
+  🐧 Usuário de Linux :D
 
   🌱 Estudando Quarkus para expandir o ecossistema Java
 
