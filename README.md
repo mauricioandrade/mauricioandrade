@@ -9,7 +9,7 @@ Gosto de entender por que um sistema quebra antes de sair escrevendo código pra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Fora do código:** JRPG, metroidvania e anime.
+**Fora do código:** Tibia, soulslike, anime e metal.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricioandradexdz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mauzandrade@gmail.com)
